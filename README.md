@@ -20,6 +20,8 @@ or you can send me:
 
 [Linkedin](https://www.linkedin.com/in/arsangamal/) or [Facebook](https://facebook.com/arsan.gamal) or [Twitter](https://twitter.com/arsan_gamal)
 
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,mysql,js,jquery,vue,html,css,tailwind,bootstrap,python,cpp,cs,java,git,aws&perline=8)](https://skillicons.dev)
+
 About
 -----
 
