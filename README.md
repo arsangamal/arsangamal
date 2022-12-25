@@ -20,12 +20,11 @@ or you can send me:
 
 [Linkedin](https://www.linkedin.com/in/arsangamal/) or [Facebook](https://facebook.com/arsan.gamal) or [Twitter](https://twitter.com/arsan_gamal)
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,mysql,js,jquery,vue,html,css,tailwind,bootstrap,python,cpp,cs,java,git,aws&perline=8)](https://skillicons.dev)
-
 About
 -----
 
 I am a self-taught developer for more than 12 years experience based in Cairo, Egypt who adore creating and building useful tools to help people on their everyday lives. I have started programming since I was 12 years old. I am in love and working with
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,mysql,js,jquery,vue,html,css,tailwind,bootstrap,python,cpp,cs,java,git,aws&perline=8)](https://skillicons.dev)
 
 Work Experience
 ---------------
